@@ -101,3 +101,5 @@ void PrintArray(string[] array)
 }
 ```
 Результат вывода в терминал:
+
+![image answer in terminal](https://raw.githubusercontent.com/SmirnovRinat/Final_control_work/main/image_answer_in_terminal.jpg)
