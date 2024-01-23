@@ -102,4 +102,9 @@ void PrintArray(string[] array)
 ```
 Результат вывода в терминал:
 
-![image answer in terminal](https://raw.githubusercontent.com/SmirnovRinat/Final_control_work/main/image_answer_in_terminal.jpg)
+![image answer in terminal](https://raw.githubusercontent.com/SmirnovRinat/Final_control_work/main/image_answer_in_terminal.jpg "Скриншот вывода результата в терминал")
+
+5. Скриншот коммитов для подтверждения.
+
+>![Screenshot of commits](https://raw.githubusercontent.com/SmirnovRinat/Final_control_work/main/Screenshot_of_commits.png "Скриншот коммитов в терминале bash")
+
